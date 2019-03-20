@@ -1,0 +1,64 @@
+.cards{
+  height:150px;
+  width:20%;
+  padding:5px;
+  float: left;
+  background-image: url(playCard.png);
+  background-size: cover;
+  margin: 5px
+}
+h1{
+  text-align: center;
+}
+
+.spades.selected{
+  background-image: url("cam.jpg");
+  background-size: cover;
+
+}
+.diamonds.selected{
+ background-image: url("drake.jpg");
+ background-size: cover;
+
+}
+.hearts.selected{
+  background-image: url("nip.jpg");
+  background-size: cover;
+
+}
+.clubs.selected{
+  background-image: url("jada.jpg");
+  background-size: cover;
+}
+.joker.selected{
+  background-image: url("wayne.jpg");
+  background-size: cover;
+}
+.aces.selected{
+  background-image: url("ross.jpg");
+  background-size: cover;
+}
+.spades.matched{
+  background-image: url("cam.jpg");
+  background-size: cover;
+}
+.diamonds.matched{
+  background-image: url("drake.jpg");
+  background-size: cover;
+}
+.hearts.matched{
+  background-image: url("nip.jpg");
+  background-size: cover;
+}
+.clubs.matched{
+    background-image: url("jada.jpg");
+    background-size: cover;
+}
+.joker.matched{
+  background-image: url("wayne.jpg");
+  background-size: cover;
+}
+.aces.matched{
+  background-image: url("ross.jpg");
+  background-size: cover;
+}
